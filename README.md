@@ -154,6 +154,8 @@ Screenshots
 *   **User Registration Page**: ![User Registration Page](./screenshots/user_registration1.png)
 *   ![User Registration Page](./screenshots/user_registration2.png)
 *   ![User Registration Page](./screenshots/user_registration3.png)
+*   ![User Registration Page](./screenshots/user_registration5.png)
+*   ![User Registration Page](./screenshots/user_registration4.png)
 *   **Admin Panel for Paper Upload**: ![Admin Panel](./screenshots/admin_panel.png)
 *   **User Portal with Exam Details**: ![User Portal](./screenshots/user_portal.png)
 *   **Exam Paper Display during Exam Time**: ![Exam Paper Display](./screenshots/exam_paper.png)
