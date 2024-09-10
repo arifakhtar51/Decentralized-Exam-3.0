@@ -66,8 +66,8 @@ Ensure you have the following installed:
 
 ### 1\. Clone the Repository
 
-   https://github.com/arifakhtar51/HackIndia-Spark-7-priority_queue.git
-    cd HackIndia-Spark-7-priority_queue
+   git clone https://github.com/arifakhtar51/HackIndia-Spark-7-priority_queue.git 
+   cd HackIndia-Spark-7-priority_queue
     
 
 ### 2\. Install Dependencies
