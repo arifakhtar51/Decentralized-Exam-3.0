@@ -66,8 +66,8 @@ Ensure you have the following installed:
 
 ### 1\. Clone the Repository
 
-    git clone https://github.com/your-username/exam-3.0.git
-    cd exam-3.0
+   https://github.com/arifakhtar51/HackIndia-Spark-7-priority_queue.git
+    cd HackIndia-Spark-7-priority_queue
     
 
 ### 2\. Install Dependencies
@@ -151,7 +151,9 @@ WordPress is used for content management, allowing users to register via WordPre
 Screenshots
 -----------
 
-*   **User Registration Page**: ![User Registration Page](./screenshots/user_registration.png)
+*   **User Registration Page**: ![User Registration Page](./screenshots/user_registration1.png)
+*   ![User Registration Page](./screenshots/user_registration2.png)
+*   ![User Registration Page](./screenshots/user_registration3.png)
 *   **Admin Panel for Paper Upload**: ![Admin Panel](./screenshots/admin_panel.png)
 *   **User Portal with Exam Details**: ![User Portal](./screenshots/user_portal.png)
 *   **Exam Paper Display during Exam Time**: ![Exam Paper Display](./screenshots/exam_paper.png)
